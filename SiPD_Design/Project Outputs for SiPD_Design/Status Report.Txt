@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SiPD_Design.PrjPcb]
+   Generated File[SiPD_Design.TXT]
+   Generated File[SiPD_Design.LDP]
+   Generated File[SiPD_Design.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:16:11 PM On 2/15/2022

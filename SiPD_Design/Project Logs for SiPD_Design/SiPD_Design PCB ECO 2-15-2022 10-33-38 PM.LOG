@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=Cb-2
+Removed Pin From Net: NetName=NetCf_1 Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=GND-1
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Member From Class: ClassName=APD_Design Member=Cb
+Removed Member From Class: ClassName=APD_Design Member=GND
+Removed Member From Class: ClassName=APD_Design Member=Rb
+Removed Member From Class: ClassName=APD_Design Member=Vbias
+Removed Member From Class: ClassName=Power Member=NetC11_2
+Change Component Designator: OldDesignator=5V NewDesignator=1
+Change Component Designator: OldDesignator=AD NewDesignator=AD1
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Component Designator: OldDesignator=C3 NewDesignator=C7
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=ICSP NewDesignator=ICSP1
+Change Component Designator: OldDesignator=IOH NewDesignator=IOH1
+Change Component Designator: OldDesignator=IOL NewDesignator=IOL1
+Change Component Designator: OldDesignator=POWER NewDesignator=POWER1
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=Vcc NewDesignator=Vcc1
+Added Component: Designator=D3(PIN2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=NetCf_1 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC12_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R3-2
+Added Pin To Net: NetName=NetC1_2 Pin=U2-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=U2-2
+Added Net: Name=NetR1_2
+Change Class Name : Old Net Name=APD_Design New Net Name=SiPD_Design
+Added Member To Class: ClassName=SiPD_Design Member=Component R4 0
+Added Member To Class: ClassName=Power Member=Wire NetC12_2

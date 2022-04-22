@@ -1,0 +1,6 @@
+Added Component: Designator=R5(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=R5-1
+Added Pin To Net: NetName=+Vcc Pin=R5-2
+Added Member To Class: ClassName=SiPD_Design Member=Component R5 0

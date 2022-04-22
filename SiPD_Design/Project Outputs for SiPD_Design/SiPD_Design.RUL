@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\Users\gisel\Desktop\Projects\ASTR3560\SiPD_Design\SiPD_Design.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit_GND_1|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=ShortCircuit_GND|Scope=Board|Allowed=1
+RuleKind=Width|RuleName=Width_HV|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=Width_Power|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_HV|Scope=Board|Minimum=50.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.50
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

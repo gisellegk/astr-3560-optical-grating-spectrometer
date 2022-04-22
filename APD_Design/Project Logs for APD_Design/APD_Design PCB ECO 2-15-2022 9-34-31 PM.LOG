@@ -1,0 +1,5 @@
+Change Component Comment : Designator=P4 Old Comment=Header 3 New Comment=5V
+Change Component Comment : Designator=P3 Old Comment=Header 3 New Comment=Vcc
+Change Component Designator: OldDesignator=P1 NewDesignator=Vbias
+Change Component Designator: OldDesignator=P2 NewDesignator=GND
+Added Member To Class: ClassName=APD_Design Member=Component C3 .1u

@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=1 NewDesignator=5V
+Change Component Designator: OldDesignator=Vcc1 NewDesignator=Vcc
+Added Member To Class: ClassName=SiPD_Design Member=Component C5 .1u
+Added Member To Class: ClassName=SiPD_Design Member=Component C6 .1u
+Added Member To Class: ClassName=SiPD_Design Member=Component C7 .1u
+Added Member To Class: ClassName=SiPD_Design Member=Component C8 0.01u
+Added Member To Class: ClassName=SiPD_Design Member=Component C9 10u
+Added Member To Class: ClassName=SiPD_Design Member=Component C11 10u
+Added Member To Class: ClassName=SiPD_Design Member=Component C12 10u
+Added Member To Class: ClassName=SiPD_Design Member=Component C13 10u
+Added Member To Class: ClassName=SiPD_Design Member=Component D1 Diode 1N4148
+Added Member To Class: ClassName=SiPD_Design Member=Component D3 Photo Sen
+Added Member To Class: ClassName=SiPD_Design Member=Component R1 CRCW08050000Z0EA
+Added Member To Class: ClassName=SiPD_Design Member=Component U3 OP07CP
